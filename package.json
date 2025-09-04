@@ -2,6 +2,7 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Lumieeel",
   "description": "Un proyecto para aprender a manejar Node.js y package.json",
+  "keywords": [ "freecodecamp", "node", "aprendizaje" ],
   "dependencies": {
     "express": "^4.14.0"
   },
