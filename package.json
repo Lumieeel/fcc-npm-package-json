@@ -1,5 +1,6 @@
 {
   "name": "fcc-learn-npm-package-json",
+  "version": "1.0.0",
   "author": "Lumieeel",
   "description": "Un proyecto para aprender a manejar Node.js y package.json",
   "keywords": [ "freecodecamp", "node", "aprendizaje" ],
