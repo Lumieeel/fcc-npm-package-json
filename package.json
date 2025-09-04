@@ -3,11 +3,15 @@
   "version": "1.0.0",
   "author": "Lumieeel",
   "description": "Un proyecto para aprender a manejar Node.js y package.json",
-  "keywords": [ "freecodecamp", "node", "aprendizaje" ],
+  "keywords": [
+    "freecodecamp",
+    "node",
+    "aprendizaje"
+  ],
   "license": "MIT",
   "dependencies": {
     "express": "^4.14.0",
-    "@freecodecamp/example": "1.1.0"
+    "@freecodecamp/example": "1.2.13"
   },
   "main": "server.js",
   "scripts": {
