@@ -1,13 +1,9 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Lumieeel",
-  "description": "A simple project for freeCodeCamp backend challenges",
-  "keywords": [
-    "freecodecamp",
-    "backend",
-    "nodejs",
-    "express"
-  ],
+  "description": "A simple project for freeCodeCamp NPM challenges",
+  "keywords": ["freecodecamp", "node", "npm", "backend"],
+  "license": "MIT",
   "dependencies": {
     "express": "^4.14.0",
     "@freecodecamp/example": "~1.2.13"
