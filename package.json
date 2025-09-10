@@ -2,8 +2,13 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Lumieeel",
   "description": "A project that does something awesome",
+  "keywords": [
+    "freecodecamp",
+    "node",
+    "npm",
+    "project"
+  ],
   "dependencies": {
-    "express": "^4.14.0",
     "@freecodecamp/example": "~1.2.13"
   },
   "main": "server.js",
