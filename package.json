@@ -1,26 +1,8 @@
 {
   "name": "fcc-learn-npm-package-json",
-  "version": "1.0.0",
   "author": "Lumieeel",
-  "description": "Un proyecto para aprender a manejar Node.js y package.json",
-  "keywords": [
-    "freecodecamp",
-    "node",
-    "aprendizaje"
-  ],
-  "license": "MIT",
+  "description": "A simple project to practice managing Node.js packages with npm",
   "dependencies": {
-    "express": "^4.14.0",
-    "@freecodecamp/example": "1.2.13"
-  },
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js",
-    "fcc-start": "node server.js",
-    "test": "mocha"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Lumieeel/fcc-npm-package-json.git"
+    "@freecodecamp/example": "~1.2.13"
   }
 }
