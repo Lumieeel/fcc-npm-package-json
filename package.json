@@ -1,14 +1,15 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Lumieeel",
-  "description": "A project that does something awesome",
+  "description": "A simple project for freeCodeCamp backend challenges",
   "keywords": [
     "freecodecamp",
-    "node",
-    "npm",
-    "project"
+    "backend",
+    "nodejs",
+    "express"
   ],
   "dependencies": {
+    "express": "^4.14.0",
     "@freecodecamp/example": "~1.2.13"
   },
   "main": "server.js",
@@ -17,6 +18,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+    "url": "https://github.com/Lumieeel/fcc-npm-package-json.git"
   }
 }
